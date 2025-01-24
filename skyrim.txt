@@ -10,8 +10,8 @@ a
 dog
 wolf
 lucario
-dragowulf
-rizz
+|The fox is not cute, but his actions may be cute|
+cooking
 cute
 fox
 am
